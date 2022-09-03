@@ -1,0 +1,17 @@
+.jumbotron{
+  background-color: rgb(0,0,0);
+  color: rgb(255, 153, 0);
+  padding: 100px 0;
+  text-align: center;
+}
+.brand-icon{
+  font-size:70px;
+}
+.display-1{
+  padding-bottom: 20px;
+  font-size:80px;
+  font-style: bold;
+}
+.card-columns{
+  background-color: rgb(24, 24, 24);
+}
