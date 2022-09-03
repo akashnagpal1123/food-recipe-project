@@ -1,3 +1,10 @@
+This project was a part of my minor college project. Had to re-upload it due to some issues. Hope you like it :)
+PreRequisites:
+Install axios library
+npm install axios
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
