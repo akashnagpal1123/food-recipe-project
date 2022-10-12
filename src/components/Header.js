@@ -1,4 +1,5 @@
 import React from "react";
+import "../components/Header.css";
 
 const Header = props => {
   const { search, onInputChange, onSearchClick } = props;
